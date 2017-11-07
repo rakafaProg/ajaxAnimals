@@ -1,0 +1,4 @@
+[{"name":"Kata","type":"Cat","about":"Very cute cat that can miuau whenever you want","imgUrl":"img/cat.jpg"},
+  {"name":"Max","type":"Dog","about":"Very cute dog that can waff whenever you want","imgUrl":"img/dog.jpg"},
+  {"name":"Kofiko","type":"Monkey","about":"The most anoying monkey in the world. Can talk, walk, and eat bananas.","imgUrl":"img/monkey.jpg"},
+{"name":"Don","type":"Parrot","about":"Can repeat after every thing you say","imgUrl":"img/parrot.jpg"}]
